@@ -36,6 +36,7 @@ header {
 }
 
 aside {
+	display: flex;
 	background-color: coral;
 	justify-content: center;
 	width: 600px;
